@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The country-mans care, and the citizens feare, in bringing up their children in good education. Set forth in a dialogue betweene a citizen and country-man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80681</idno>
+            <idno type="STC">Wing C6545</idno>
+            <idno type="STC">Thomason E179_8</idno>
+            <idno type="STC">ESTC R10407</idno>
+            <idno type="EEBO-CITATION">99858834</idno>
+            <idno type="PROQUEST">99858834</idno>
+            <idno type="VID">157118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157118)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E179[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The country-mans care, and the citizens feare, in bringing up their children in good education. Set forth in a dialogue betweene a citizen and country-man.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for T. B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page illustrated with woodcuts of a citizen and a countryman.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  England --  Humor --  Early works to 1800.</term>
+               <term>Professional ethics --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157118:1" rendition="simple:additions"/>
+            <p>THE COVNTRY-MANS CARE, And the Citizens feare, In bringing up their Children in good Education.</p>
+            <p>Set forth in a Dialogue betweene a Citizen and Country-Man.</p>
+            <figure>
+               <head>Citizen.</head>
+               <figDesc>a well-dressed urban gentleman</figDesc>
+            </figure>
+            <figure>
+               <head>Country Man.</head>
+               <figDesc>a well-dressed rural gentleman</figDesc>
+            </figure>
+            <p>Printed at <hi>London</hi> for <hi>T.B.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:157118:2"/>
+            <pb n="3" facs="tcp:157118:2"/>
+            <head>THE Country Mans Care, AND The Citizens Feare in theſe dange<g ref="char:EOLhyphen"/>rous, and Troubleſome Times.</head>
+            <sp>
+               <speaker>Citizen.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met <hi>Countryman,</hi> what is the beſt newes that the Country doth afford at this time?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Alas ſir! I wonder you ſhould ſo earneſtly enquire newes of mee, that live in the Countrey, whenas we receive all our newes from you. I confeſſe, you did prevent mee, therefore I pray, what is the beſt newes in the City?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Alas! the ambiguous rotation of the World is very mutable, nothing is conſtant, nothing durable, but all things doe praecipitate themſelves moſt ſtrangly in a mutuall levitie.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>This newes is hard indeed: for I did expect better, in regard that I have a Son, truely a pritty Schol<g ref="char:EOLhyphen"/>ler (as his Maſter tells me) and of a hopefull expectati<g ref="char:EOLhyphen"/>on, whoſe preferment I intend to raiſe (God willing) Therefore I beſeech you (if you can) inſtruct me, what way I may <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ttle him in.</p>
+            </sp>
+            <pb n="5" facs="tcp:157118:3"/>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>What can he underſtand the Latine tongue, or how farre hath he proceeded therein?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truely ſir he is paſt his <hi>Propribus quae maribus,</hi> &amp; his <hi>Aſſe in praeſentibus</hi> too I'le aſſure you; yea, &amp; he can reade any Chapter in the Bible very punctifully, and withall he hath read toe Maſter Practiſe on the Piety, and many other Godly bookes I thanke God for it, who hath endewed him with ſo much grace: Therefore be<g ref="char:EOLhyphen"/>cauſe he is come to ſome knowledge now, I would wil<g ref="char:EOLhyphen"/>lingly bring him up to ſome Scholler-ſhip: what think you Sir, if I ſhould ſend him to the Vniverſity?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Sir I commend your fedulity herein: but I have often heard, and withall I know by experience, that the Vniverſity is much polluted, and contaminated with Popiſh ſuperſtitions, which if your ſonne ſhould be ſe<g ref="char:EOLhyphen"/>duced into, perhaps it will cauſe both his utter ruine, and your perpetuall ſorrow.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Is it poſſible that the Vniverſity ſhould be cor<g ref="char:EOLhyphen"/>rupt? Tis no marvell then that the whole kingdome is miſled, ſince the very fountaines themſelves are po<g ref="char:EOLhyphen"/>luted.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>I Exhort you as a friend; and I hope you will not contemne my friendly admonition.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But my Son may avoid their crafty allure<g ref="char:EOLhyphen"/>ments, and if he then unceſſantly follow his ſtuddy, he may one day prove a Miniſter of God word.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Piſh, a miniſter of Gods word quother? Now a dayes every man will become a Miniſter: therefore it will be but vanity for you to ſend your ſonne thither to attaine to the Sacerdotiall function.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But dare every man preſume ſo farre without learning?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>That is the chiefe cauſe thereof: for learning is abuſed, contemned, derided, neglected, deſpiſed: they
+<pb n="4" facs="tcp:157118:3"/>will have noe praying, nor preaching, unleſſe it be per<g ref="char:EOLhyphen"/>formed by inſtinct and inſpiration, as the ſpirit mooves them. And if a man heapes up knowledge, and Schol<g ref="char:EOLhyphen"/>ler-ſhip by indefatigable ſtuddy, he is thought to have fild his mind only with more advantage to doe wick<g ref="char:EOLhyphen"/>edneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Oh lamentable!</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Yea you may ſee Coblers and Tinkers riſing from the very Dunghill, beating the Pulpits as confor<g ref="char:EOLhyphen"/>mably, as if they were the Kinges profeſſors of Divinity, ſcattering their new doctrine and diſcipline in the Church, and are accounted great divines too of the vul<g ref="char:EOLhyphen"/>gar. Here you ſhall ſee one making himſelfe a Prophet preaching in a Tub as confidently, as if he were Doctor in Divinity. There you ſhall ſee another thumping forth his new doctrine in a Barne among his conniticles (I ſhould have ſaid) conventicles, as if he were Maſter of Artes. In the meane while revolve all, and you ſhall finde Scholler-ſhip moſt ſhamefully deſpiſed.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But if he diligently continue in his ſtuddy. God knowes but that he may one day become a Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Citix.</speaker>
+               <p>How? a Biſhop? alas! I feare there will be no more of that dignity: for the generall aſſent and conſent too of the Commons will admit of no Biſhops: and they muſt all very ſhortly reſigne their Titles, which ſhall be abrogated. Your ſonne ſhall never be Arch-Biſhop I'le warrant you: and if you intend to make a Divine of him, he muſt have a great care leaſt the Arch-Biſhop doe not cut of his eares. But I will free you from that feare, for I tell once againe that there will be no more Biſhops: Yet if it ſeemes more juſt, and ſecure, that the holy Church ſhould admit a degree of leſſe, and greater, they will have no Biſhops, but onely Lay-El<g ref="char:EOLhyphen"/>ders: to the election of which dignity, they judge and
+<pb n="6" facs="tcp:157118:4"/>ſuppoſe none more fit, and none more prepared for the performance of every thing, belonging to Gods word, then thoſe venerable, and reverend Fathers Maſter <hi>Cob<g ref="char:EOLhyphen"/>ler, Tinker,</hi> and <hi>Button-maker,</hi> men (although but of a meane Scholler-ſhip) yet moſt wonderfully inſpired. Therefore I think it meere vanity for you, to bring your ſonne up to be a Scholler.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Alas! then what ſhall I doe? unleſſe I ſhould put him to the Innes a Court.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Soe you'l make a young <hi>Suckling</hi> of him, and then he'l run away.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But I intend to make him a <hi>Lawyer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>Alas the Starre-Chamber, and High-Commiſ<g ref="char:EOLhyphen"/>ſion Court is downe long agone: and he muſt be as buſie as a <hi>Ducke,</hi> or elſe he will looſe preferment. For Lawyers are not reſpected, neither are they accounted Honeſt, becauſe they ſell their lines dearer then <hi>Apothe<g ref="char:EOLhyphen"/>caries</hi> Phyſicks, which I confeſſe is deare enough, yet no<g ref="char:EOLhyphen"/>thing comparable to the price of their lines, which gape wider then an Oyſter-wiſes mouth, and ſtraddle wider then a French-man's legs. Fie, fie! Lawyers are accounted Knaves over all the Country.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Tis ſtrange! For I'm ſure they have more An<g ref="char:EOLhyphen"/>gels come hourely to them in Terme time, then all the Puritans in the Towne.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>But here lyes the differnce: Their Angels doe weare croſſes: and becauſe the Puritans will admit of no croſſe, therefore they hate the Lawyers the more, be<g ref="char:EOLhyphen"/>cauſe they are ſo ready to receive them.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>And there is none of their whole Tribe, that will deny ſuch croſſes, I'le warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>But Lawyers are ſo little regarded now adayes, that I feare before they can procure other men's Suites at Law, they'le want Suites to their owne Backs.</p>
+            </sp>
+            <pb n="7" facs="tcp:157118:4"/>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But perhaps he may come to the honour of a Iudge one day.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>I hope you doe not deſire to have your Sonne hang'd. That's a dangerous title I'le aſſure you: Did you not heare that moſt of the Iudges are to be judged under other Iudges, yea and they'le hardly eſcape hang<g ref="char:EOLhyphen"/>ing too, unleſſe they give ample ſatisfaction to the Par<g ref="char:EOLhyphen"/>liament: for they are acknowledged to be the Originall of all our greivances. Therefore if you be wiſe deſiſt from that opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Alas! What education ſhall I then impoſe up<g ref="char:EOLhyphen"/>on my Son? Since all theſe grounds of hope hath de<g ref="char:EOLhyphen"/>ceived me. What thinke you Sir, if I traine him up to be a Souldier?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>He muſt ſweare luſtily then: and bragge of ma<g ref="char:EOLhyphen"/>ny things with oſtentation, although he can performe nothing. But ſtay! Now I thinke on it: Perhaps he may be ſuſpected to be ſome Trooper, (for they ſay the Countrey is very full of them) then apprehended and ſo incontinently committed onely upon ſuſpicion.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>You ſay true indeed Sir: Therefore I know not what courſe to take with him. I intreat you Sir, to lend me your advice.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>If the Lad be ſo hopefull, as you declare him to be: I care not greatly if I take him under my Tuition, and if you pleaſe to condeſcend thereunto, he ſhall be my Apprentice, and I'le aſſure you for your ſake he ſhall be both kindly kept, and religiouſly inſtructed.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I humbly thank you for your love, wherefore I acknowledge my ſelfe much ingaged to you: But I pray what trade are you off Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>I am a Vintner by my Trade.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I am very glade to heare of that: and if my Sonne be wiſe enough, but to take fourty Shilling a
+<pb n="8" facs="tcp:157118:5"/>Tunne, he may prove an Alderman too. Well Sir, I am much obleiged unto you, for your love unto him, and I will bring him unto you, and if you like his morality and ingenuity, I will willingly ſend him unto you.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>He ſhall be moſt lovingly reſpected.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Thankes Noble Sir; In the meane while farewell.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
